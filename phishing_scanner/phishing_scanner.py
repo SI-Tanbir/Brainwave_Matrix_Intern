@@ -142,10 +142,10 @@ if __name__ == "__main__":
     main()
 
 
-"
+"""
 idea to improve it :
 checking nmap usuall ports,
 bower intrigation
 api intrigation 
 ai intrigaion
- "
+ """
